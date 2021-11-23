@@ -1,4 +1,3 @@
 # aprendendo-flex
-Aprendendo a desenvolver com Flexbox.
-Alterando o arquivo readme.md
+[Aprendendo a desenvolver com Flexbox](https://frantend.github.io/aprendendo-flex/)
 
